@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .forex one-word domains from Uniqu
 
 **Public extract:** 5,094 rows · **Live catalog:** 5,094 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/forex`  
 **Best for:** founders, investors, studios
 
@@ -74,7 +74,7 @@ print(df.head())
 | max.forex     | resell    | —         | —             | 70             | 55     | 3      | Spaceship, Inc. |
 | mini.forex    | premium   | $1,250    | —             | 70             | 70     | 4      | name.com        |
 | fun.forex     | available | $19.99    | —             | 90             | 62     | 3      | name.com        |
-| zero.forex    | resell    | —         | —             | 112            | 54     | 4      | Sav.com, LLC    |
+| zero.forex    | resell    | —         | —             | 112            | 53     | 4      | Sav.com, LLC    |
 | get.forex     | premium   | $1,250    | —             | 88             | 69     | 3      | name.com        |
 | tesla.forex   | available | $19.99    | —             | 86             | 61     | 5      | name.com        |
 | bot.forex     | resell    | —         | —             | 80             | 53     | 3      | Porkbun LLC     |
@@ -83,7 +83,7 @@ print(df.head())
 | air.forex     | resell    | —         | —             | 84             | 49     | 3      | Sav.com, LLC    |
 | flash.forex   | premium   | $6,250    | —             | 64             | 67     | 5      | name.com        |
 | context.forex | available | $19.99    | —             | 76             | 59     | 7      | name.com        |
-| hub.forex     | resell    | —         | —             | 72             | 49     | 3      | Spaceship, Inc. |
+| travel.forex  | resell    | —         | —             | 93             | 48     | 6      | Porkbun LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FOREX One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FOREX One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
