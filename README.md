@@ -1,22 +1,22 @@
-# Available .FOREX One-Word Domains (5,094)
+# Available .FOREX One-Word Domains (9,690)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-5%2C094%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C094%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C690%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .forex one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .forex one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **9,690 domains** on the canonical page below.
 
-**Public extract:** 5,094 rows · **Live catalog:** 5,094 domains
+**Public extract:** 1,000 rows · **Live catalog:** 9,690 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/forex`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .FOREX one-word domain
 
 ### Files
 
-- `forex.csv` — public CSV extract (5,094 rows)
-- `forex.json` — public JSON extract (5,094 rows)
+- `forex.csv` — public CSV extract (1,000 rows)
+- `forex.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| matt.forex    | available | $19.99    | —             | 72             | 71     | 4      | name.com        |
-| fix.forex     | resell    | $19.99    | —             | 66             | 33     | 3      | Dynadot Inc     |
-| prime.forex   | premium   | $1,250    | —             | 76             | 82     | 5      | name.com        |
-| prompt.forex  | available | $19.99    | —             | 82             | 68     | 6      | name.com        |
-| pay.forex     | resell    | —         | —             | 84             | 60     | 3      | Edomains LLC    |
-| fire.forex    | premium   | $6,250    | —             | 70             | 75     | 4      | name.com        |
-| fuck.forex    | available | $19.99    | —             | 74             | 68     | 4      | name.com        |
-| max.forex     | resell    | —         | —             | 70             | 55     | 3      | Spaceship, Inc. |
-| mini.forex    | premium   | $1,250    | —             | 70             | 70     | 4      | name.com        |
-| fun.forex     | available | $19.99    | —             | 90             | 62     | 3      | name.com        |
-| zero.forex    | resell    | —         | —             | 112            | 53     | 4      | Sav.com, LLC    |
-| get.forex     | premium   | $1,250    | —             | 88             | 69     | 3      | name.com        |
-| tesla.forex   | available | $19.99    | —             | 86             | 61     | 5      | name.com        |
-| bot.forex     | resell    | —         | —             | 80             | 53     | 3      | Porkbun LLC     |
-| easy.forex    | premium   | $1,250    | $1,250        | 128            | 68     | 4      | name.com        |
-| code.forex    | available | $19.99    | —             | 72             | 61     | 4      | name.com        |
-| air.forex     | resell    | —         | —             | 84             | 49     | 3      | Sav.com, LLC    |
-| flash.forex   | premium   | $6,250    | —             | 64             | 67     | 5      | name.com        |
-| context.forex | available | $19.99    | —             | 76             | 59     | 7      | name.com        |
-| travel.forex  | resell    | —         | —             | 93             | 48     | 6      | Porkbun LLC     |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| our.forex          | available | $19.99    | —             | 64             | 48     | 3      | name.com  |
+| realestate.forex   | premium   | $1,250    | —             | 77             | 42     | 11     | name.com  |
+| Ryan.forex         | available | $133.98   | —             | 60             | 44     | 4      | namecheap |
+| Tools.forex        | premium   | $1,400    | $1,400        | 56             | 40     | 5      | namecheap |
+| shortcuts.forex    | available | $19.99    | —             | 48             | 41     | 10     | name.com  |
+| ideas.forex        | premium   | $1,250    | —             | 62             | 37     | 5      | name.com  |
+| matcha.forex       | available | $19.99    | —             | 86             | 39     | 6      | name.com  |
+| BlackFriday.forex  | premium   | $1,400    | $1,400        | 74             | 29     | 12     | namecheap |
+| RGB.forex          | available | $133.98   | —             | 76             | 39     | 3      | namecheap |
+| quotes.forex       | premium   | $1,250    | —             | 58             | 29     | 6      | name.com  |
+| Friends.forex      | available | $133.98   | —             | 82             | 37     | 7      | namecheap |
+| Bets.forex         | premium   | $7,000    | $7,000        | 72             | 27     | 4      | namecheap |
+| notes.forex        | available | $19.99    | —             | 73             | 37     | 5      | name.com  |
+| registration.forex | premium   | $1,250    | —             | 75             | 19     | 12     | name.com  |
+| aliens.forex       | available | $19.99    | —             | 56             | 35     | 6      | name.com  |
+| shares.forex       | premium   | $1,250    | —             | 58             | 18     | 6      | name.com  |
+| homes.forex        | available | $19.99    | —             | 86             | 34     | 5      | name.com  |
+| dollars.forex      | premium   | $6,250    | —             | 64             | 12     | 7      | name.com  |
+| imagination.forex  | available | $19.99    | —             | 84             | 33     | 11     | name.com  |
+| pairs.forex        | premium   | $1,250    | —             | 54             | 11     | 5      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 5,094-row public sample | 5,094 live domains                               |
+| 1,000-row public sample | 9,690 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FOREX One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FOREX One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
