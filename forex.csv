@@ -50,6 +50,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 02653ba3-6607-460d-ad94-771ce379244a,thoughts.forex,available,19.99,,65,18,8,name.com,,
 02687600-c20a-4c57-ae6f-5433837bc9d7,fastgrowing.forex,available,19.99,,72,3,12,name.com,,
 02741843-a243-4d85-98b3-87ce636d94f6,goitalone.forex,available,19.99,,74,1,11,name.com,,
+0277321c-db39-4c1d-a23e-0ab640fa3342,guide.forex,premium,,,72,29,5,,,
 028c32aa-f183-40fe-8633-aad12899dec9,hallwaymonitor.forex,available,19.99,,58,1,15,name.com,,
 02b39aba-62fc-4f90-b671-471837f95882,generalequilibrium.forex,available,19.99,,62,1,19,name.com,,
 02bead15-b61f-498c-bd92-58dc2d682e22,volunteers.forex,available,19.99,,62,12,10,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 30dc2d04-04ce-47ba-ae78-e8f92d0c8a73,dropabombshell.forex,available,19.99,,58,0,16,name.com,,
 30ddbca6-c2ba-4ba4-b4c8-684e553142c1,Ihavediabetes.forex,available,133.98,,50,2,15,namecheap,,
 30df5837-991f-4045-8660-7828ace5ffa8,finalized.forex,available,19.99,,52,2,9,name.com,,
-30f82f35-9b20-4ab4-a52b-04dc449351ed,principally.forex,available,19.99,,60,1,11,name.com,,
