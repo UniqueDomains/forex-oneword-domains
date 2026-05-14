@@ -70,7 +70,7 @@ print(df.head())
 | barup.forex        | available | $19.99    | —             | 82             | 2      | 6      | name.com  |
 | matcha.forex       | available | $19.99    | —             | 86             | 39     | 6      | name.com  |
 | our.forex          | available | $19.99    | —             | 64             | 48     | 3      | name.com  |
-| realestate.forex   | premium   | $1,250    | —             | 77             | 42     | 11     | name.com  |
+| realestate.forex   | premium   | $1,250    | —             | 77             | 44     | 11     | name.com  |
 | Friends.forex      | available | $133.98   | —             | 82             | 41     | 7      | namecheap |
 | Tools.forex        | premium   | $1,400    | $1,400        | 56             | 40     | 5      | namecheap |
 | shortcuts.forex    | available | $19.99    | —             | 48             | 41     | 10     | name.com  |
