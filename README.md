@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .forex one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,234 domains · **Median ask:** $55.10 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-11
+**Last updated:** 2026-09-12
 **Canonical page:** `https://unique.domains/domains/tld/forex`
 **Best for:** founders, investors, studios
 
@@ -83,7 +83,7 @@ print(df.head())
 | anything.forex | resell    | —         | —             | medium         | low    | 8      | NameCheap, Inc. |
 | city.forex     | premium   | $6,250    | —             | high           | medium | 4      | name.com        |
 | but.forex      | available | $19.99    | —             | high           | low    | 3      | name.com        |
-| data.forex     | premium   | $1,250    | $1,250        | medium         | medium | 4      | name.com        |
+| data.forex     | premium   | $1,300    | $1,300        | medium         | medium | 4      | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FOREX One-Word Domains*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FOREX One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
