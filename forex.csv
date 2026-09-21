@@ -1,6 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 ccf606b6-9220-41aa-9db7-df83e2b73d0d,roll.forex,available,19.99,,medium,low,4,name.com,,,
-300c008c-8b29-4bf8-a147-ad5af6c734c3,progressive.forex,available,19.99,,high,low,11,name.com,,,
+300c008c-8b29-4bf8-a147-ad5af6c734c3,progressive.forex,available,11.98,133.98,medium,low,11,namecheap,,,19/09/2026 14:06
 e73e2811-846d-4b18-bb54-efb5c78493d4,primetime.forex,available,19.99,,high,low,10,name.com,,,
 97823bd1-08b8-4a73-a7f1-c52bba244e6f,touch.forex,available,19.99,,high,low,5,name.com,,,
 5392a9ec-9374-4f17-8e19-5c967f69f229,attendant.forex,available,19.99,129.99,high,low,9,name.com,,,
@@ -18,7 +18,6 @@ f52fb9c1-1081-4796-ac3a-9049f2df2b8a,dime.forex,available,19.99,,medium,low,4,na
 95517c4d-2a14-4c2e-9534-7b23ff97179a,goodday.forex,available,19.99,,high,low,8,name.com,,,
 968ffd2c-838e-4b88-a7b8-63efa3808756,call.forex,premium,1250,,high,low,4,name.com,,,
 8bdaf130-c7c9-4c13-b78f-3f33baccb0cf,ability.forex,available,19.99,,high,low,7,name.com,,,
-173841c9-70b7-4064-863e-a6611d4babec,deep.forex,resell,,,high,medium,4,"Sav.com, LLC",29/07/2024 11:21,29/07/2026 11:21,
 dcfc0083-df36-42c6-a30d-9af4d4ce17e7,whiteboard.forex,available,19.99,,high,low,10,name.com,,,
 5223b65b-729d-450a-8e26-348d817f77a0,bland.forex,available,19.99,,medium,low,5,name.com,,,
 1744c78c-3339-4773-a0e3-b3b2dd98b0f1,audio.forex,available,19.99,,high,low,5,name.com,,,
@@ -26,7 +25,7 @@ dcfc0083-df36-42c6-a30d-9af4d4ce17e7,whiteboard.forex,available,19.99,,high,low,
 3762e3eb-7ae9-4bd2-ba4e-f5ce51d244fa,vehicle.forex,available,19.99,,high,low,7,name.com,,,
 16da4233-6286-41ca-9a5e-934e9e929455,indifferent.forex,available,19.99,,medium,low,11,name.com,,,
 9a74ab26-ef0e-4958-a383-0eecd97d483b,sheet.forex,available,19.99,,medium,low,5,name.com,,,
-a735b4f0-79b0-41ea-86e8-a7821b6cccb3,science.forex,available,11.98,133.98,medium,medium,7,namecheap,,,08/09/2026 14:15
+a735b4f0-79b0-41ea-86e8-a7821b6cccb3,science.forex,available,11.98,133.98,medium,low,7,namecheap,,,20/09/2026 21:50
 3e3c1f02-093a-4ff0-a447-327cf6cd89ef,wondered.forex,available,19.99,,high,low,8,name.com,,,
 bce63381-09b5-4437-bf78-fc6d2e2e6bdf,lindsay.forex,available,19.99,,high,low,7,name.com,,,
 33f596c4-6f10-44cb-b2fe-b61194706eea,satan.forex,available,19.99,,medium,low,5,name.com,,,
@@ -61,7 +60,7 @@ e2f39585-2f00-40c2-ae71-cbf2d2856594,midday.forex,available,19.99,,high,low,6,na
 17a16629-791c-4ff8-a05b-818d31b14de0,comic.forex,available,19.99,,high,low,5,name.com,,,
 66fea329-208f-495c-bd96-f469dae8e6ae,teal.forex,available,19.99,,high,low,4,name.com,,,
 61d011fa-1b36-42a8-bbdd-0f7c95ed868f,explorer.forex,available,19.99,,high,low,8,name.com,,,
-0dc3fccd-75cc-4adc-8f42-61c5b2f63de5,Christianname.forex,available,19.99,,medium,low,14,name.com,,,
+0dc3fccd-75cc-4adc-8f42-61c5b2f63de5,christianname.forex,available,19.99,,medium,low,14,name.com,,,
 f7d4f505-3781-418a-ace7-5b2b59c6e87b,rejected.forex,available,19.99,,medium,low,8,name.com,,,
 bfbeb50f-cef6-42cd-b0ed-be0d5c073ab0,oregon.forex,available,19.99,,high,low,6,name.com,,,
 f504f07d-682f-4b54-9359-b3d2f2315d10,hold.forex,available,19.99,,high,low,4,name.com,,,
@@ -83,7 +82,7 @@ af0487a2-a023-4be9-b8ab-18ac27e3f34a,page.forex,available,19.99,,high,low,4,name
 67ff4b9b-0be8-4329-8b46-a3241423f282,xxv.forex,available,19.99,129.99,medium,low,3,name.com,,,
 71829d03-518e-4379-9450-222ea9507644,tie.forex,available,19.99,,high,low,3,name.com,,,
 93710690-cb33-4bef-91c6-fa92e67f1c42,heavyhanded.forex,available,19.99,,medium,low,12,name.com,,,
-15a68e5b-2cee-4e86-8711-fea2547383f9,cafe.forex,available,19.99,,high,low,4,name.com,,,
+15a68e5b-2cee-4e86-8711-fea2547383f9,cafe.forex,available,11.98,133.98,medium,low,4,namecheap,,,19/09/2026 13:35
 d474ac67-61b1-48ee-b234-c3921a06e6e4,poll.forex,available,19.99,,high,low,4,name.com,,,
 4d7a8690-fc2c-4a88-b86f-205206423442,belong.forex,available,19.99,,high,low,6,name.com,,,
 884f45c1-1638-4be5-9b7e-845bcc17be64,possession.forex,available,19.99,,high,low,10,name.com,,,
@@ -99,20 +98,19 @@ bb3eefeb-2b98-4a12-955c-c71d7442119b,sailor.forex,available,19.99,,medium,low,6,
 151ebd70-8aff-40bc-a176-b585ee85be20,insure.forex,available,19.99,,high,low,6,name.com,,,
 38551c32-6479-4bf8-af57-bc5ac28a0f90,exhibit.forex,premium,1250,,high,low,7,name.com,,,
 b588d4c5-62ee-4c86-b847-67901d995e67,justified.forex,available,19.99,,high,low,9,name.com,,,
-8f1dfd28-d49f-4242-b1ac-41bffbb7f5ad,help.forex,resell,,,medium,medium,4,Porkbun LLC,11/08/2025 14:16,11/08/2026 14:16,
 2f367fd5-576f-4f8f-94fe-6efb9f50c743,hide.forex,available,19.99,,high,low,4,name.com,,,
 90615ed3-fe38-4398-bd3c-7eb9966ba7d0,shoot.forex,available,19.99,,high,low,5,name.com,,,
 615b03f0-e117-4625-b5e5-c30d214f934f,nurse.forex,available,19.99,,medium,low,5,name.com,,,
 c8dffbb4-f316-42df-9c1d-f446921337cd,envious.forex,available,19.99,129.99,medium,low,7,name.com,,,
 108be1f5-be68-4fa5-9f2d-4d1b042b4907,woven.forex,available,19.99,,high,low,5,name.com,,,
 c11516e0-8583-44da-b9ce-9f5852ec9074,employment.forex,available,19.99,,high,low,10,name.com,,,
-63e37585-23e4-4a43-8953-18fe6b22542a,integrate.forex,available,19.99,,high,low,9,name.com,,,
+63e37585-23e4-4a43-8953-18fe6b22542a,integrate.forex,available,11.98,133.98,medium,low,9,namecheap,,,20/09/2026 03:11
 5c480556-3f39-44b6-90fb-10d8617da363,where.forex,available,19.99,,high,low,5,name.com,,,
-5f4752f2-282e-4855-9d66-a2e543891f5e,snack.forex,available,11.98,133.98,medium,low,5,namecheap,,,08/09/2026 13:13
+5f4752f2-282e-4855-9d66-a2e543891f5e,snack.forex,available,11.98,133.98,medium,low,5,namecheap,,,19/09/2026 10:58
 a93b9e37-566f-42c4-b644-0b706e37243c,french.forex,available,19.99,,high,low,6,name.com,,,
 1983274d-5e02-450f-808b-dec39b5d153f,exception.forex,available,19.99,,high,low,9,name.com,,,
 59d65184-be4e-47b7-aef1-110f32b080b0,modelt.forex,available,19.99,,high,low,7,name.com,,,
-edcc9050-186e-4dc7-94b0-1d4007253e31,chiefly.forex,available,11.98,133.98,low,low,7,namecheap,,,14/09/2026 09:34
+edcc9050-186e-4dc7-94b0-1d4007253e31,chiefly.forex,available,11.98,133.98,low,low,7,namecheap,,,20/09/2026 23:12
 e0437a10-6924-4bd6-a2fb-a449cd9bf8d7,anyone.forex,available,19.99,,medium,low,6,name.com,,,
 2479cb6a-c2ca-4c38-9065-ce42bce97d5f,computerlanguage.forex,available,19.99,,high,low,17,name.com,,,
 46061ab0-274a-4385-b9ee-04e46182bb92,optout.forex,available,19.99,,high,low,7,name.com,,,
@@ -133,8 +131,8 @@ b0691660-efee-49b2-aeaf-ec0fa6fcc240,joy.forex,available,19.99,,high,medium,3,na
 b6d89aa4-f55b-4db0-bda9-a61b9769135c,coat.forex,available,19.99,,high,low,4,name.com,,,
 8b633546-bd1d-4678-a22b-f1f12c2b27d4,note.forex,available,19.99,,high,low,4,name.com,,,
 81ae9284-5490-4c16-8b53-527e62ea4590,abundant.forex,available,19.99,129.99,high,low,8,name.com,,,
-1d5cc44b-cee5-4ef6-a793-8eaac2aa0866,spike.forex,available,11.98,133.98,medium,low,5,namecheap,,,12/09/2026 11:46
-74bc1648-a2d7-45ed-99ce-49fc51c1f86a,marketing.forex,available,19.99,,high,medium,9,name.com,,,
+1d5cc44b-cee5-4ef6-a793-8eaac2aa0866,spike.forex,available,11.98,133.98,low,low,5,namecheap,,,19/09/2026 15:31
+74bc1648-a2d7-45ed-99ce-49fc51c1f86a,marketing.forex,available,11.98,133.98,medium,low,9,namecheap,,,19/09/2026 13:53
 5eb71669-c4be-4e0b-b36b-1cc25c7a93b0,petty.forex,available,19.99,,medium,low,5,name.com,,,
 b22f2066-c626-4e01-9058-af4e0ab99e7b,domainname.forex,available,19.99,,high,low,11,name.com,,,
 9c72e5dc-bc26-48ae-bd4e-b0155476d8b4,clue.forex,available,19.99,,high,low,4,name.com,,,
@@ -154,7 +152,7 @@ d45e30bb-0997-476e-8839-81a4f6847a45,intense.forex,available,19.99,,high,low,7,n
 e5b2fce6-3455-4f37-a50c-438f39e4d229,intime.forex,available,19.99,,medium,low,7,name.com,,,
 e816d3f8-148b-4ae4-955a-a4293cec99f8,lowercase.forex,available,19.99,,high,low,9,name.com,,,
 c9dac114-4029-411e-9aac-6cbf9ac52038,oppose.forex,available,19.99,,medium,low,6,name.com,,,
-08420ca0-7482-40c6-9994-395f8a552f69,spread.forex,premium,1250,1250,high,low,6,name.com,,,
+08420ca0-7482-40c6-9994-395f8a552f69,spread.forex,premium,1300,1300,medium,low,6,namecheap,,,19/09/2026 12:51
 95728a6a-8808-42c4-9f1d-e4acd5b8f4ae,intheend.forex,available,19.99,,medium,low,10,name.com,,,
 3b13ae11-01a2-4ec6-8866-60789216b04b,described.forex,available,19.99,129.99,medium,low,9,name.com,,,
 fa1bdf28-7d11-4786-90db-9449f66821ce,thug.forex,available,19.99,,medium,low,4,name.com,,,
@@ -175,7 +173,7 @@ d7382803-ba3e-46a2-915b-8007985a7cd0,about.forex,available,19.99,129.99,high,low
 4e0f2ef7-58f9-4f2b-bb42-e0b35ddb4ada,budget.forex,available,19.99,,high,low,6,name.com,,,
 f5b93513-ad5a-4e99-b51b-d59579addf08,retardant.forex,available,19.99,,medium,low,9,name.com,,,
 dc561499-4b9e-44ab-b2bb-4d80c60d0068,lose.forex,available,19.99,,medium,low,4,name.com,,,
-fe350f44-2986-4b0f-bd90-15aa010c6a51,IDcard.forex,available,19.99,,high,low,7,name.com,,,
+fe350f44-2986-4b0f-bd90-15aa010c6a51,idcard.forex,available,19.99,,high,low,7,name.com,,,
 0f5b1cb2-0ac4-4cbc-941f-ac5d72e95168,cappuccino.forex,available,19.99,,high,low,10,name.com,,,
 436a4327-730c-46d2-b9c6-c6427fcb1a7d,formalise.forex,available,19.99,,high,low,9,name.com,,,
 de2e040c-7a25-4322-829f-f7ad275fcc2c,miracle.forex,available,19.99,,high,low,7,name.com,,,
@@ -191,7 +189,7 @@ baaaf24e-5a59-4f20-9610-d822d2a09a08,dramatic.forex,available,19.99,129.99,mediu
 ffcc6bbe-538b-40c5-a8f6-6005a00d039d,lunch.forex,available,19.99,,high,low,5,name.com,,,
 cb9c57d1-9996-401e-b4bb-ad6f36feec00,rural.forex,available,11.98,133.98,medium,low,5,namecheap,,,08/09/2026 07:52
 eb913701-4c5a-426b-bdbd-74e2c0fb9c36,threatening.forex,available,19.99,,medium,low,11,name.com,,,
-dd9eaba9-e9f6-4bf2-a1c9-8b8781e1996c,electronic.forex,premium,1300,1300,medium,low,10,namecheap,,,08/09/2026 07:20
+dd9eaba9-e9f6-4bf2-a1c9-8b8781e1996c,electronic.forex,premium,1300,1300,low,low,10,namecheap,,,19/09/2026 14:31
 12fae74b-73e7-468b-9415-beb1d7ed4ea1,sixteen.forex,available,19.99,129.99,high,low,7,name.com,,,
 2a2e003a-0496-4b74-8d7c-1c7dc26d9fe9,democracy.forex,available,19.99,,high,low,9,name.com,,,
 e2f64ffd-db59-4748-b1ec-20f66ab52122,resolvable.forex,available,19.99,,high,low,10,name.com,,,
@@ -238,11 +236,11 @@ a02fd41a-6ccd-4d50-9106-06f272725374,largely.forex,available,19.99,,medium,low,7
 bdd025aa-c6e6-412d-be6a-6fffedd66ac4,shy.forex,available,19.99,,medium,low,3,name.com,,,
 5f614682-9093-41f4-9386-48c4bb022252,coffee.forex,available,19.99,,high,medium,6,name.com,,,
 f65a2b77-4897-4d08-b9ab-12d2e0ded022,fish.forex,available,19.99,,high,low,4,name.com,,,
-8c2c8683-8f7a-4d78-baff-ce5b41f406b6,Harold.forex,available,19.99,,high,low,6,name.com,,,
+8c2c8683-8f7a-4d78-baff-ce5b41f406b6,harold.forex,available,19.99,,high,low,6,name.com,,,
 25e4594e-79b0-432b-8c30-e3a21efb83e8,pen.forex,available,19.99,,medium,low,3,name.com,,,
 a9a086c4-2a0f-4699-b2d7-83ceb58a2d1d,messy.forex,available,19.99,,medium,low,5,name.com,,,
 24d5d473-4c37-41d1-b8c7-b666af211232,sortof.forex,available,19.99,,medium,low,7,name.com,,,
-39a542ad-c60a-4e96-b3fe-525ed8c34774,ohmyGod.forex,available,19.99,,high,low,9,name.com,,,
+39a542ad-c60a-4e96-b3fe-525ed8c34774,ohmygod.forex,available,19.99,,high,low,9,name.com,,,
 2802f34c-9208-4fbf-a2ad-0d0e98c12deb,pricetag.forex,available,19.99,,high,low,9,name.com,,,
 8de4d955-12b1-47ab-adee-f61f4f4ab822,concerned.forex,available,19.99,129.99,medium,low,9,name.com,,,
 f65c2136-4dfa-409f-9076-91b4ec38780c,harmony.forex,available,19.99,,high,low,7,name.com,,,
@@ -265,7 +263,7 @@ eb17ccd4-39a7-4bfd-a09d-5f690085e7d3,early.forex,available,19.99,129.99,high,low
 c74f8f35-6e7b-472b-9545-ae5aab2227b2,selfish.forex,available,19.99,,medium,low,7,name.com,,,
 57ffb4d6-80c1-43c9-b5c4-ce33fa979343,billboard.forex,available,19.99,,medium,low,9,name.com,,,
 72104e54-94c1-46fe-9b03-87909c12ca81,directed.forex,available,19.99,129.99,high,low,8,name.com,,,
-d7af3a86-482c-41f4-82fa-f503c8eb5970,investment.forex,premium,1250,,high,low,10,name.com,,,
+d7af3a86-482c-41f4-82fa-f503c8eb5970,investment.forex,premium,1300,1300,medium,low,10,namecheap,,,19/09/2026 04:38
 4d6f0207-e01f-40c2-9a2a-9bdf9f555a39,smelling.forex,available,19.99,,medium,low,8,name.com,,,
 8897ce11-9811-4f5e-a3ec-7371466b77fe,polyester.forex,available,19.99,,high,low,9,name.com,,,
 d154e6c0-27eb-4490-8ebe-c8464c9a78a8,explain.forex,premium,6250,,high,low,7,name.com,,,
@@ -367,14 +365,14 @@ f2558dfd-8bb6-4e23-9c56-0b5860b137e6,getwell.forex,available,19.99,,high,low,8,n
 ccb430f7-431e-4460-98c3-fcd415e9bc88,wink.forex,available,19.99,,high,low,4,name.com,,,
 1ced7a93-93bb-44d4-b256-a000b5bb1bcb,spiderweb.forex,available,19.99,,high,low,10,name.com,,,
 11f1fc43-d060-4dd3-ab84-3fe530c68d8e,meaningful.forex,available,19.99,,high,low,10,name.com,,,
-618e65c7-2fd4-46b7-98c3-9c4779bd0962,related.forex,available,11.98,133.98,medium,low,7,namecheap,,,14/09/2026 04:17
+618e65c7-2fd4-46b7-98c3-9c4779bd0962,related.forex,available,11.98,133.98,low,low,7,namecheap,,,19/09/2026 12:07
 f46c7a41-d49c-4987-af5f-501af42918eb,vacuumcleaner.forex,available,19.99,,high,low,14,name.com,,,
 a6f1df65-28a6-4408-bd60-6bebe3d621ec,controlled.forex,available,19.99,129.99,medium,low,10,name.com,,,
 e56ec498-cf7c-471d-ae6d-aed17110a8c1,say.forex,available,19.99,,medium,low,3,name.com,,,
 650c3f64-7233-4d99-b7cb-70198f7563b7,risk.forex,premium,1250,1250,medium,low,4,name.com,,,08/09/2026 12:49
-2cca9607-6115-43cb-b94e-28ca1e7f5e93,financial.forex,premium,1300,1300,medium,low,9,namecheap,,,14/09/2026 02:49
+2cca9607-6115-43cb-b94e-28ca1e7f5e93,financial.forex,premium,1300,1300,medium,low,9,namecheap,,,19/09/2026 09:32
 37bf64e7-b107-4269-bcf1-c7ff0b507a3f,print.forex,available,19.99,,high,medium,5,name.com,,,
-8028252b-b09d-4ba6-85eb-858ed09a4325,turmeric.forex,available,11.98,133.98,medium,low,8,namecheap,,,12/09/2026 11:21
+8028252b-b09d-4ba6-85eb-858ed09a4325,turmeric.forex,available,11.98,133.98,medium,low,8,namecheap,,,19/09/2026 15:28
 2264d25c-89aa-4edc-8e50-266c10ae1246,jay.forex,available,19.99,,medium,low,3,name.com,,,
 e9f6dd77-6c0d-4215-acda-5ae07135a3b7,pain.forex,available,19.99,,high,low,4,name.com,,,
 c6cad45f-919e-4d89-8f59-587326e46644,fort.forex,available,19.99,,medium,low,4,name.com,,,
@@ -391,7 +389,7 @@ a6239c99-0276-40f4-b5a0-edd174d4b954,color.forex,available,19.99,,high,low,5,nam
 2c6d2ce7-2a60-4b43-9ba3-b8735c210a88,monopoly.forex,available,19.99,,medium,low,8,name.com,,,
 9c20d33d-3f98-4c5a-b95d-383b07f84d72,cutto.forex,available,19.99,,medium,low,6,name.com,,,
 37d5579f-6c27-4f59-8f83-4cb0723dfb40,bare.forex,available,19.99,,medium,low,4,name.com,,,
-70b33326-f05d-477f-af89-8aefa3262958,end.forex,available,11.98,133.98,medium,low,3,namecheap,,,12/09/2026 12:19
+70b33326-f05d-477f-af89-8aefa3262958,end.forex,available,11.98,133.98,medium,low,3,namecheap,,,19/09/2026 15:33
 30681ea1-2ca3-4d7b-b701-30b82449411f,snow.forex,available,19.99,,medium,low,4,name.com,,,
 827ab94d-70fd-460b-b830-7525ff58c792,attract.forex,available,19.99,,high,low,7,name.com,,,
 a5754f46-cad8-445e-84cb-fb3a6a6e1b0e,opposite.forex,available,19.99,129.99,high,low,8,name.com,,,
@@ -482,7 +480,7 @@ aa44c478-8242-43ce-ba25-fa4d9ee4f8a6,lady.forex,available,19.99,,high,low,4,name
 7ff93e72-c141-44e3-9adb-3784bab06d56,allied.forex,available,19.99,129.99,high,low,6,name.com,,,
 fcb8016f-0444-467c-ae57-3fd6012f0c39,vertical.forex,available,19.99,,high,low,8,name.com,,,
 16c904cc-2b0f-4f81-ae28-6ce268489fca,reader.forex,available,19.99,,high,low,6,name.com,,,
-7fef0866-d1d4-484e-ab89-666211c06d8d,series.forex,available,11.98,133.98,medium,low,6,namecheap,,,15/09/2026 03:19
+7fef0866-d1d4-484e-ab89-666211c06d8d,series.forex,available,11.98,133.98,medium,low,6,namecheap,,,19/09/2026 17:55
 89c97e7f-799d-48c8-8683-5dd78600f871,bars.forex,available,19.99,,medium,low,4,name.com,,,
 3b4f83b1-2580-48ea-8ecc-5d53390f34ff,wideopen.forex,available,19.99,,medium,low,9,name.com,,,
 be28bb64-3558-4a99-acaf-3c2b65ae8724,composed.forex,available,19.99,129.99,high,low,8,name.com,,,
@@ -511,7 +509,7 @@ ffae8a37-2569-4328-8c20-8c338e989f9e,plentiful.forex,available,19.99,,high,low,9
 877c5fd0-9c0a-46f0-bf11-a78798581e76,astonished.forex,available,19.99,,high,low,10,name.com,,,
 b1a764a3-2ce2-4bbb-bac1-65a19c73510f,leather.forex,available,19.99,,high,low,7,name.com,,,
 30cc9912-c66e-47b3-bdd8-08cea7d985ab,verbal.forex,available,19.99,,high,low,6,name.com,,,
-4126e015-f2f7-49b1-84a4-3ac0ea3ac2b4,news.forex,premium,1250,,high,medium,4,name.com,,,
+4126e015-f2f7-49b1-84a4-3ac0ea3ac2b4,news.forex,premium,1300,1300,medium,low,4,namecheap,,,20/09/2026 02:58
 de6d92ac-7646-4217-aa43-c99bf0621b67,recorded.forex,available,19.99,,high,low,8,name.com,,,
 4e15ba8d-a7b5-42ec-883a-807c92d5ec7c,bless.forex,available,19.99,,high,low,5,name.com,,,
 73b2f624-1af0-4da5-ad81-27f15254abd0,noticed.forex,available,19.99,,high,low,7,name.com,,,
@@ -545,7 +543,7 @@ cf87f048-e76a-4092-ae60-ee1dd6d2ce06,dental.forex,available,19.99,129.99,high,lo
 8e26268e-90cc-4e60-a88f-13e71e85f38d,seriously.forex,available,19.99,,medium,low,9,name.com,,,
 d01e6a62-af39-40c3-b493-74f6dcc5b5b1,dose.forex,available,19.99,,high,low,4,name.com,,,
 10df6a0b-df12-4677-a545-6d9dcf3327ca,bound.forex,available,19.99,,medium,low,5,name.com,,,
-190d15db-452c-4034-95c8-ce8e593b088e,buffet.forex,available,11.98,133.98,medium,low,6,namecheap,,,14/09/2026 03:26
+190d15db-452c-4034-95c8-ce8e593b088e,buffet.forex,available,11.98,133.98,medium,low,6,namecheap,,,19/09/2026 17:05
 604debf6-43b1-44a6-b66f-950dd4b8e282,direction.forex,available,19.99,,high,low,9,name.com,,,
 5f3ade12-e1f5-40fd-869e-4b9804302367,checkin.forex,available,19.99,,high,low,8,name.com,,,
 50db058b-9317-4fc1-a7ab-f18549bf9ad0,eve.forex,available,19.99,,high,medium,3,name.com,,,
@@ -573,7 +571,7 @@ f4c0e3a4-d967-42cf-95df-29e282ce1990,casual.forex,available,19.99,,high,low,6,na
 882c5948-b02a-4a21-9eb5-a6da24992143,luck.forex,available,19.99,,high,low,4,name.com,,,
 09aa1efe-7b2c-499c-97d8-7486afb50133,ana.forex,available,19.99,,high,low,3,name.com,,,
 358216c8-f5b5-4fd2-8531-e747aa05cf44,adjustable.forex,available,19.99,129.99,high,low,10,name.com,,,
-278937b6-6247-46c2-8cf0-82d4ac35188e,movie.forex,available,19.99,,high,low,5,name.com,,,
+278937b6-6247-46c2-8cf0-82d4ac35188e,movie.forex,available,19.99,129.99,medium,low,5,name.com,,,20/09/2026 03:25
 842b4ed9-6611-417f-81a3-74b0ae512e07,detailing.forex,available,19.99,,high,low,9,name.com,,,
 b8738cfa-3a6b-401e-9b99-1e31b78af1a7,condiment.forex,available,19.99,,high,low,9,name.com,,,
 4918bdbc-efc1-4fc1-b442-4aa2076ca13c,mum.forex,available,19.99,,high,low,3,name.com,,,
@@ -585,7 +583,7 @@ ea7f44a8-a19e-44e2-8928-f7ed65ed8bb7,crowded.forex,available,19.99,129.99,medium
 ba6c1ed2-00d9-4b3b-b0dd-6f1ffd8ab2e4,kilometer.forex,available,19.99,,high,low,9,name.com,,,
 1717d951-9583-4dbe-a8e8-ba7945f85474,undergraduate.forex,available,19.99,,medium,low,13,name.com,,,
 532bb9a5-bc76-487d-adf0-46ff1d8fd9db,ordinarily.forex,available,19.99,,medium,low,10,name.com,,,
-86a39479-7e38-4b7c-94e5-b3c786f89d3c,business.forex,premium,6250,,high,medium,8,name.com,,,
+86a39479-7e38-4b7c-94e5-b3c786f89d3c,business.forex,premium,6500,6500,medium,low,8,namecheap,,,20/09/2026 12:51
 306cdddf-949a-4b32-87a1-3212a89efcb3,quite.forex,available,19.99,,high,low,5,name.com,,,
 da15bc68-a05b-445c-a606-a0d3513f386b,onion.forex,available,19.99,,medium,low,5,name.com,,,
 fd707f58-79e3-4ac8-a959-47e378288445,yearbook.forex,available,19.99,,high,low,8,name.com,,,
@@ -621,7 +619,7 @@ c2f40181-7430-4076-9ff6-530f06778bfd,pretense.forex,available,19.99,,medium,low,
 fdb906ab-846a-4d6e-8a57-586e8c960b6d,wrong.forex,available,19.99,,high,low,5,name.com,,,
 07ad4352-f55f-4509-809b-838ec0132cf0,dentist.forex,available,19.99,,high,low,7,name.com,,,
 f4d83a83-77ba-43cb-a049-fab4ac5ceef6,pal.forex,available,19.99,,high,low,3,name.com,,,
-022258d9-8775-4b73-bdbe-1e629cebf1b1,screen.forex,available,19.99,,high,low,6,name.com,,,
+022258d9-8775-4b73-bdbe-1e629cebf1b1,screen.forex,available,11.98,133.98,low,low,6,namecheap,,,19/09/2026 13:37
 48e8c9d3-563b-44df-b1e0-1a1fd92d6eb7,lizard.forex,available,19.99,,medium,low,6,name.com,,,
 bd765081-1a85-4c7b-8713-9575824c2ae3,twice.forex,available,19.99,,medium,low,5,name.com,,,
 0705d367-b703-4ffd-b839-65989b7c6b89,oldlady.forex,available,19.99,,medium,low,8,name.com,,,
@@ -649,7 +647,7 @@ f7f76887-f1b9-45de-89bb-a32d6340db38,icon.forex,available,19.99,,high,medium,4,n
 daeb9209-eed1-4fa1-bf5a-244cc2ff69fb,restrain.forex,available,19.99,,medium,low,8,name.com,,,
 7a68b1f2-6fc8-4136-b7af-a11f91c920eb,pittsburgh.forex,available,19.99,,medium,low,10,name.com,,,
 4dadd426-8ffd-4975-b527-6267cc983c1f,attraction.forex,available,19.99,,high,low,10,name.com,,,
-91b23df6-5298-456d-8dfa-b80887fd7c85,idiot.forex,available,11.98,133.98,low,low,5,namecheap,,,15/09/2026 00:52
+91b23df6-5298-456d-8dfa-b80887fd7c85,idiot.forex,available,11.98,133.98,low,low,5,namecheap,,,19/09/2026 09:51
 78c2701e-8d9f-4359-b80c-e59c1d590f5c,manual.forex,premium,1250,,medium,low,6,name.com,,,
 5154bb14-5e1c-435b-b88b-ddd28a7ad4a3,increase.forex,available,19.99,,high,low,8,name.com,,,
 01c73d3c-760f-45de-b945-4398063d87fd,twenty.forex,available,19.99,129.99,high,low,6,name.com,,,
@@ -673,7 +671,7 @@ d45b856f-220c-41b3-bfb5-039491bead69,mixing.forex,available,19.99,,high,low,6,na
 b8fa208b-b839-4198-989f-36709a651a67,dive.forex,available,19.99,,high,low,4,name.com,,,
 6e10c05f-5b6e-48d4-ab72-f7f5f0ec7f3c,okay.forex,available,19.99,129.99,high,low,4,name.com,,,
 de708dc5-ad7f-4583-8d2e-cb804b07336d,involve.forex,available,19.99,,high,low,7,name.com,,,
-6fe1b3b2-a46d-4acc-9c98-eb1273c44b8e,begin.forex,available,11.98,133.98,medium,low,5,namecheap,,,15/09/2026 05:53
+6fe1b3b2-a46d-4acc-9c98-eb1273c44b8e,begin.forex,available,11.98,133.98,medium,low,5,namecheap,,,19/09/2026 05:29
 dc981f8b-2951-4ed9-a6b4-34909b7905a8,worst.forex,available,19.99,,medium,low,5,name.com,,,
 6b707673-0512-478f-99f7-78da63a0b554,prayer.forex,available,19.99,,high,low,6,name.com,,,
 42c3dbac-2ea2-4b65-b814-c176f049326d,backwards.forex,available,19.99,,medium,low,9,name.com,,,
@@ -712,7 +710,7 @@ f94757e7-95f9-460d-a43e-adafca2db271,lcd.forex,available,19.99,,high,low,3,name.
 bcd920a2-632a-4e0b-82cd-26859922dc7d,nursery.forex,available,19.99,,high,low,7,name.com,,,
 0cc44beb-1c85-4cb4-9b0e-f0e4dcf68498,sadness.forex,available,19.99,,medium,low,7,name.com,,,
 e8edf1fe-eebb-4e21-8490-38804eb5ec66,noon.forex,available,19.99,,high,low,4,name.com,,,
-ef5b9471-9d13-48a6-a2be-2669f82dd666,deal.forex,premium,6500,6500,medium,low,4,namecheap,,,13/09/2026 03:03
+ef5b9471-9d13-48a6-a2be-2669f82dd666,deal.forex,premium,6500,6500,low,low,4,namecheap,,,19/09/2026 16:06
 91b44ad6-43f7-45cd-bfa4-4dfee31afd49,seated.forex,available,19.99,,high,low,6,name.com,,,
 8e7eecfb-1248-4811-ab6d-35aa9276fb48,southern.forex,available,19.99,,high,low,8,name.com,,,
 efbd283d-fbf5-4307-ba4f-e79874db736a,andrew.forex,available,19.99,,high,medium,6,name.com,,,
@@ -724,7 +722,7 @@ ecf02bcd-77a2-4cbe-8715-cdcbeb9896e9,landscape.forex,available,19.99,,high,low,9
 f798e153-92b0-411e-a430-123131915bf9,rocky.forex,available,19.99,,medium,low,5,name.com,,,
 c0bacf05-3d87-4e9a-997e-ec909d98ca86,breezy.forex,available,19.99,,high,low,6,name.com,,,
 feda0f38-6305-4c8b-b3a2-e34fcdaf9a7f,prenuptial.forex,available,19.99,,high,low,10,name.com,,,
-bdf666b4-1bb3-4eb0-92bf-b1a21a4866f7,discipline.forex,available,11.98,133.98,medium,low,10,namecheap,,,14/09/2026 02:51
+bdf666b4-1bb3-4eb0-92bf-b1a21a4866f7,discipline.forex,available,11.98,133.98,medium,low,10,namecheap,,,19/09/2026 11:34
 781c9fb4-de52-4295-9437-909a69f25cc2,xii.forex,available,19.99,129.99,medium,low,3,name.com,,,
 48e7e37e-be20-4d7f-8717-094138f3130d,bigger.forex,available,19.99,,high,low,6,name.com,,,
 7b7c02d9-fe19-4b6c-bb74-70f6e133b16a,fitness.forex,available,19.99,,high,low,7,name.com,,,
@@ -736,7 +734,7 @@ fb733d64-edf3-421f-b69d-dee101d3d36e,dislike.forex,available,19.99,,high,low,7,n
 25b3d74c-2be5-499b-9f3f-490ec4f5db5b,slight.forex,available,19.99,,medium,low,6,name.com,,,
 8efcc903-baa0-4c64-9165-6e2e4331f4ba,heartthrob.forex,available,19.99,,high,low,10,name.com,,,
 1daea679-4a4b-4396-bd8b-534537bbf996,allstar.forex,available,19.99,,high,low,8,name.com,,,
-987717a0-2e17-40ee-9a47-6bf6ffe565b4,company.forex,premium,1250,,high,low,7,name.com,,,
+987717a0-2e17-40ee-9a47-6bf6ffe565b4,company.forex,premium,1300,1300,medium,low,7,namecheap,,,19/09/2026 10:25
 3f1075bb-22c8-4865-8c50-d281b8f0e206,baking.forex,available,19.99,,high,low,6,name.com,,,
 ece7e8a2-264c-4370-b738-60c2e6aaa61a,possess.forex,available,19.99,,high,low,7,name.com,,,
 d766905e-f160-40fc-9456-ee0152af393f,located.forex,available,19.99,,medium,low,7,name.com,,,
@@ -782,14 +780,14 @@ f3ae277c-f044-46bf-9ce8-420cad3f8991,excelat.forex,available,19.99,,high,low,8,n
 b45a16ec-e461-4393-bd01-003c265d636b,stateoftheart.forex,available,19.99,,high,low,16,name.com,,,
 889d01c9-0f66-4dff-b030-b5e385375ead,attitude.forex,available,19.99,,high,low,8,name.com,,,
 e9e8a188-f99b-457a-a61c-2ba25278673d,waitingroom.forex,available,19.99,,high,low,12,name.com,,,
-4e923b6f-b422-42c8-8417-6e1344e95215,mixed.forex,available,11.98,133.98,low,low,5,namecheap,,,15/09/2026 02:59
+4e923b6f-b422-42c8-8417-6e1344e95215,mixed.forex,available,11.98,133.98,low,low,5,namecheap,,,19/09/2026 12:23
 665ec08b-8f2f-468b-a22a-fb848d343250,interior.forex,available,19.99,,medium,low,8,name.com,,,
 6472ca3e-c35e-4788-86f8-2227d3b9ce48,notwithstanding.forex,available,19.99,,medium,low,15,name.com,,,
 17a89b29-c25a-4d58-8334-e9ff87add768,unreal.forex,available,19.99,,medium,low,6,name.com,,,
 089b2357-015d-457f-be99-9436284f546f,girth.forex,available,19.99,,high,low,5,name.com,,,
 36d03517-620a-4907-aed4-87e5dc6c4318,employer.forex,available,19.99,,high,low,8,name.com,,,
 06dfeeb9-7f27-4d70-bf8f-d27cc4e9e276,lover.forex,available,19.99,,high,low,5,name.com,,,
-345914de-9b89-47b1-b055-4b9290f0bfbb,broad.forex,available,11.98,133.98,medium,low,5,namecheap,,,14/09/2026 03:17
+345914de-9b89-47b1-b055-4b9290f0bfbb,broad.forex,available,11.98,133.98,medium,low,5,namecheap,,,19/09/2026 06:03
 dfcfd4bf-03b6-4fd4-b8ae-82fd1c48dacb,restaurant.forex,available,19.99,,high,low,10,name.com,,,
 6def0ec4-bfe9-475e-aecc-7cb545801dd0,cutshort.forex,available,19.99,,high,low,9,name.com,,,
 e6cca2ee-4dbd-4164-a7f0-a577e006da3a,condense.forex,available,19.99,,high,low,8,name.com,,,
@@ -853,14 +851,14 @@ e1d1fa78-d267-4cad-9922-e3a526f9eb0d,pay.forex,resell,,,high,medium,3,Edomains L
 df7f7b67-cfd6-4a19-83e5-f1009929f873,trained.forex,available,19.99,,high,low,7,name.com,,,
 80fec85f-bf08-4fcd-8248-8e63ba8fc949,tower.forex,available,19.99,,high,low,5,name.com,,,
 e8664f23-ab47-43bb-88b3-1a849b0004a2,queens.forex,available,19.99,,high,low,6,name.com,,,
-c74a97ec-e1f2-4263-a52e-2cc402c49943,FannyAdams.forex,available,19.99,,medium,low,11,name.com,,,
+c74a97ec-e1f2-4263-a52e-2cc402c49943,fannyadams.forex,available,19.99,,medium,low,11,name.com,,,
 c65be5ee-47cf-44e5-aa88-ed0d919ddce3,include.forex,available,19.99,,high,low,7,name.com,,,
 dff22777-02c8-403b-9e24-d9880053dcd7,workings.forex,available,19.99,,high,low,8,name.com,,,
 2f7850dc-b7c4-4373-981d-a7271b8dc00b,await.forex,available,19.99,,high,low,5,name.com,,,
 c3bf6c21-373d-45bc-a127-1c99f7c276ca,sincerely.forex,available,19.99,,high,low,9,name.com,,,
 3eb3e853-5b67-4a74-8ee7-7dd202e9deaa,tomorrow.forex,available,19.99,,high,medium,8,name.com,,,
 6bc25304-4898-4ccb-b8ec-226b381cde58,newyork.forex,premium,1250,,high,medium,8,name.com,,,
-f7677fc8-915e-4750-b1d8-506193a6ab9b,attainable.forex,available,11.98,133.98,medium,low,10,namecheap,,,15/09/2026 02:33
+f7677fc8-915e-4750-b1d8-506193a6ab9b,attainable.forex,available,11.98,133.98,medium,low,10,namecheap,,,19/09/2026 04:15
 e6848cc2-8211-4cf8-a3ee-bf7c8592e6e7,locally.forex,available,19.99,,medium,low,7,name.com,,,
 7a17ae73-f27c-4ab1-9ea6-cb1eec7e65cc,alive.forex,available,19.99,,high,low,5,name.com,,,
 a82b9966-83ce-4c77-accf-9c0ed04c96c3,interview.forex,available,19.99,,high,low,9,name.com,,,
@@ -888,7 +886,7 @@ ff1fb922-e692-4c8a-b2a6-b112e81589c1,sunlight.forex,available,19.99,,high,low,8,
 e103900e-93e9-4326-93d3-2ade099fa7d4,mobile.forex,premium,1250,,medium,medium,6,name.com,,,
 dde1d364-ae9e-42d7-a70a-60dfc2e4e93c,proceed.forex,available,19.99,,high,low,7,name.com,,,
 f0061dab-1f5e-4413-bcf3-839b4f3c74d8,conflicted.forex,available,19.99,,medium,low,10,name.com,,,
-40c839ca-d2f0-4446-b6bd-76eed4c5bc18,data.forex,premium,1300,1300,medium,medium,4,namecheap,,,14/09/2026 02:20
+40c839ca-d2f0-4446-b6bd-76eed4c5bc18,data.forex,premium,1300,1300,medium,low,4,namecheap,,,20/09/2026 23:09
 ec36611a-8fab-4023-a546-ecc390c53bc4,fatigue.forex,available,19.99,,high,low,7,name.com,,,
 fba31c83-3086-4368-9ea6-76630c5ee619,taco.forex,available,19.99,,high,low,4,name.com,,,
 1c6ec71d-ba1b-4481-8aee-7bf69e34f9e4,stable.forex,resell,,,high,low,6,Porkbun LLC,04/06/2025 03:57,04/06/2026 03:57,
@@ -896,7 +894,7 @@ fba31c83-3086-4368-9ea6-76630c5ee619,taco.forex,available,19.99,,high,low,4,name
 693d9b17-01dd-405b-bed8-d113d1b18c32,kansas.forex,available,19.99,,medium,low,6,name.com,,,
 43c14899-dd4e-45a7-a0f3-69c0792f5118,closer.forex,available,19.99,,high,low,6,name.com,,,
 54406c9d-892c-452c-b29f-625fb1fe9df3,jamesdean.forex,available,19.99,,high,low,10,name.com,,,
-c9b00447-6a86-4b27-8966-8cc2c8b75c60,RomanCatholic.forex,available,19.99,,medium,low,14,name.com,,,
+c9b00447-6a86-4b27-8966-8cc2c8b75c60,romancatholic.forex,available,19.99,,medium,low,14,name.com,,,
 005665f0-08e4-4834-a0f9-7cfa1f37462e,musiccenter.forex,available,19.99,,high,low,12,name.com,,,
 4ca9a6d5-2be4-4f28-9a38-72ee0e7a31e3,goalong.forex,available,19.99,,high,low,8,name.com,,,
 002e0cc9-7e86-418c-8c3b-bdf964abbffd,weak.forex,available,19.99,129.99,medium,low,4,name.com,,,
@@ -905,7 +903,7 @@ c9b00447-6a86-4b27-8966-8cc2c8b75c60,RomanCatholic.forex,available,19.99,,medium
 bfa946d4-8043-45f2-ac91-7c1bb7ce1cd1,heads.forex,available,19.99,,high,low,5,name.com,,,
 77afcc4e-1a6a-4445-8b14-1c99745d5b3e,agnostic.forex,available,19.99,129.99,high,low,8,name.com,,,
 6592c85b-c2ac-4ba1-a9d8-2766caabd865,accused.forex,available,19.99,,medium,low,7,name.com,,,
-47d607fc-c284-46dc-a83c-71da59473855,naming.forex,available,19.99,,high,low,6,name.com,,,
+47d607fc-c284-46dc-a83c-71da59473855,naming.forex,available,11.98,133.98,medium,low,6,namecheap,,,19/09/2026 13:00
 c9858ebb-01bd-4dc4-807a-7b721d64f696,hic.forex,available,19.99,,high,low,3,name.com,,,
 6034e5d5-1271-4e84-8000-3bf63514c651,comeshort.forex,available,19.99,,medium,low,10,name.com,,,
 3dc65851-c378-47e5-b1f9-84a3235049ed,reduce.forex,available,19.99,129.99,high,low,6,name.com,,,
@@ -917,13 +915,13 @@ c3dc839d-7550-42e6-80d0-584ee91ba074,fortyeight.forex,available,19.99,,high,low,
 ae30b7b2-b72b-4be2-810d-7e3ac9a23ac9,cooking.forex,available,11.98,133.98,medium,low,7,namecheap,,,08/09/2026 08:19
 ad8ef976-6510-4e8d-9a97-85a5ecd2bf4d,picked.forex,available,19.99,,high,low,6,name.com,,,
 03f2e4a4-2fb8-4ad5-bde7-02aa816dd44a,least.forex,available,19.99,,high,low,5,name.com,,,
-2dee228b-eae7-41f4-8842-9d339146f538,wall.forex,available,19.99,,high,low,4,name.com,,,
+2dee228b-eae7-41f4-8842-9d339146f538,wall.forex,available,11.98,133.98,medium,low,4,namecheap,,,19/09/2026 13:29
 697d441e-97aa-4876-ad73-bdfd7c329b80,trial.forex,available,19.99,,high,low,5,name.com,,,
 3ea80fe5-0a43-4944-b179-7b2fa3dd5200,sitting.forex,available,19.99,,high,low,7,name.com,,,
 a214562b-de81-4529-a9c8-558e01f3b2ec,snore.forex,available,19.99,,medium,low,5,name.com,,,
 cf521348-186d-44b4-9387-bcd374f6bc21,notatall.forex,available,19.99,,high,low,10,name.com,,,
 6068865b-0698-4455-aa0c-c59a9537dd18,therefore.forex,available,19.99,,medium,low,9,name.com,,,
-a6aadb96-b2a1-4c58-a39c-1e658e840243,Volvo.forex,available,19.99,,high,low,5,name.com,,,
+a6aadb96-b2a1-4c58-a39c-1e658e840243,volvo.forex,available,19.99,,high,low,5,name.com,,,
 2d43ce7c-7b43-41b3-8c31-7f8c7b331873,gourmet.forex,available,19.99,,high,low,7,name.com,,,
 e1b54b4b-f43a-4b8a-8d8b-aeae2ebbd886,repeat.forex,available,19.99,129.99,high,low,6,name.com,,,
 5b79d80e-54a9-4db0-a4bb-dc3d9bb82773,latter.forex,available,19.99,,high,low,6,name.com,,,
@@ -941,7 +939,7 @@ b9ddeaac-0462-4837-beb8-1bc8742d2239,complex.forex,premium,1250,1250,high,low,7,
 c7b66ad0-984a-44d4-8a87-c8aceda5bfd2,journey.forex,available,19.99,,high,low,7,name.com,,,
 0758370b-af47-426f-9f79-b586969f0d2a,inc.forex,available,19.99,,medium,low,3,name.com,,,
 6420b5eb-3bf5-4e92-b921-850bde5aa5ac,law.forex,available,19.99,,high,medium,3,name.com,,,
-e6ee56a8-e575-40d5-a49b-a06d1a5e44c7,vast.forex,available,11.98,133.98,medium,low,4,namecheap,,,15/09/2026 03:15
+e6ee56a8-e575-40d5-a49b-a06d1a5e44c7,vast.forex,available,11.98,133.98,medium,low,4,namecheap,,,19/09/2026 06:11
 f154e963-7ec7-4b18-9a01-1320d537ee0d,thinkup.forex,available,19.99,,high,low,8,name.com,,,
 633f1cf7-9fdd-412c-b45a-1f4a5ce9fc03,genial.forex,available,19.99,129.99,high,low,6,name.com,,,
 834447fd-e8b5-43aa-ae52-76115ae3eaee,brave.forex,available,19.99,,high,medium,5,name.com,,,
@@ -969,7 +967,7 @@ a7c2ba70-c589-47f5-baa3-74639968ed6c,broadband.forex,available,19.99,,high,low,9
 cd4a1ec9-d6f7-4dd6-a411-443ec4e38bf1,but.forex,available,19.99,,high,low,3,name.com,,,
 e96f14b7-6547-4602-b305-b8d1762edfb0,kept.forex,available,19.99,,medium,low,4,name.com,,,
 afbd2303-9d09-4647-ad80-3c1d589c1702,delicious.forex,available,19.99,129.99,high,low,9,name.com,,,
-4fd17cae-29aa-4e73-ac1b-1d8ece4b8fdb,justice.forex,available,11.98,133.98,medium,low,7,namecheap,,,14/09/2026 03:52
+4fd17cae-29aa-4e73-ac1b-1d8ece4b8fdb,justice.forex,available,11.98,133.98,medium,low,7,namecheap,,,19/09/2026 10:07
 a527a939-82a0-49ce-86dd-ca02da0fefca,rigid.forex,available,19.99,,medium,low,5,name.com,,,
 70477502-5ee8-497d-971d-ff6e6d97d195,facility.forex,available,19.99,,high,low,8,name.com,,,
 e086949b-2a7c-441a-bce4-f81635c4a641,profitmargin.forex,available,19.99,,medium,low,13,name.com,,,
@@ -999,3 +997,5 @@ ed81fd20-babd-47e7-8874-596bb35cab69,premier.forex,premium,6250,,high,low,7,name
 ba478199-3d81-4b4a-a012-a158bfaefee1,tow.forex,available,19.99,,medium,low,3,name.com,,,
 190dfc3e-7b1a-40bf-accd-7db7c71fc8d7,jealous.forex,available,19.99,129.99,high,low,7,name.com,,,
 7abf8cfc-a301-40a0-aa6b-0df9bee2521f,boattrip.forex,available,19.99,,high,low,9,name.com,,,
+4b40414f-d058-48c6-aef1-e8ac8103dd0e,bouncing.forex,available,19.99,,high,low,8,name.com,,,
+db466ae1-df4a-483f-98fa-e23ff70a219a,daytime.forex,available,19.99,,high,low,7,name.com,,,
