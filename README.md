@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .forex one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,874 domains · **Median ask:** $43.87 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/forex`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| ana.forex      | available | $19.99    | —             | high           | low    | 3      | name.com        |
-| pay.forex      | resell    | —         | —             | high           | medium | 3      | Edomains LLC    |
-| get.forex      | premium   | $1,250    | —             | high           | medium | 3      | name.com        |
-| ate.forex      | available | $19.99    | —             | high           | low    | 3      | name.com        |
-| wow.forex      | resell    | —         | —             | high           | medium | 3      | Dynadot Inc     |
-| usa.forex      | premium   | $1,250    | —             | high           | medium | 3      | name.com        |
-| atp.forex      | available | $19.99    | —             | medium         | low    | 3      | name.com        |
-| stable.forex   | resell    | —         | —             | high           | low    | 6      | Porkbun LLC     |
-| bear.forex     | premium   | $1,250    | —             | high           | low    | 4      | name.com        |
-| bed.forex      | available | $19.99    | —             | high           | low    | 3      | name.com        |
-| anything.forex | resell    | —         | —             | medium         | low    | 8      | NameCheap, Inc. |
-| bull.forex     | premium   | $1,250    | —             | medium         | low    | 4      | name.com        |
-| beg.forex      | available | $19.99    | —             | medium         | low    | 3      | name.com        |
-| call.forex     | premium   | $1,250    | —             | high           | low    | 4      | name.com        |
-| bra.forex      | available | $19.99    | —             | medium         | low    | 3      | name.com        |
-| city.forex     | premium   | $6,250    | —             | high           | medium | 4      | name.com        |
-| but.forex      | available | $19.99    | —             | high           | low    | 3      | name.com        |
-| data.forex     | premium   | $1,300    | $1,300        | medium         | low    | 4      | namecheap       |
-| cap.forex      | available | $19.99    | —             | high           | low    | 3      | name.com        |
-| deal.forex     | premium   | $6,500    | $6,500        | low            | low    | 4      | namecheap       |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| each.forex       | available | $19.99    | $129.99       | high           | low    | 4      | name.com     |
+| duplicate.forex  | available | $19.99    | $129.99       | high           | low    | 9      | name.com     |
+| different.forex  | available | $19.99    | $129.99       | high           | low    | 9      | name.com     |
+| define.forex     | available | $19.99    | $129.99       | high           | low    | 6      | name.com     |
+| repeat.forex     | available | $19.99    | $129.99       | high           | low    | 6      | name.com     |
+| lunch.forex      | available | $19.99    | —             | high           | low    | 5      | name.com     |
+| allthebest.forex | available | $19.99    | —             | high           | low    | 12     | name.com     |
+| must.forex       | available | $19.99    | —             | high           | low    | 4      | name.com     |
+| time.forex       | premium   | $1,250    | —             | high           | medium | 4      | name.com     |
+| sunlight.forex   | available | $19.99    | —             | high           | low    | 8      | name.com     |
+| ana.forex        | available | $19.99    | —             | high           | low    | 3      | name.com     |
+| pay.forex        | resell    | —         | —             | high           | medium | 3      | Edomains LLC |
+| get.forex        | premium   | $1,300    | $1,300        | medium         | low    | 3      | namecheap    |
+| ate.forex        | available | $19.99    | —             | high           | low    | 3      | name.com     |
+| wow.forex        | resell    | —         | —             | high           | medium | 3      | Dynadot Inc  |
+| usa.forex        | premium   | $1,250    | —             | high           | medium | 3      | name.com     |
+| atp.forex        | available | $19.99    | —             | medium         | low    | 3      | name.com     |
+| stable.forex     | resell    | —         | —             | high           | low    | 6      | Porkbun LLC  |
+| bear.forex       | premium   | $1,250    | —             | high           | low    | 4      | name.com     |
+| bed.forex        | available | $19.99    | —             | high           | low    | 3      | name.com     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FOREX One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FOREX One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
