@@ -1,10 +1,10 @@
-# Available .FOREX One-Word Domains (29,159)
+# Available .FOREX One-Word Domains (31,566)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C159%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C566%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .forex one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **29,159 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **31,566 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 29,159 domains · **Median ask:** $51.42 · **High-demand under $2,500:** 6
+**Public extract:** 1,000 rows · **Live catalog:** 31,566 domains · **Median ask:** $49.27 · **High-demand under $2,500:** 6
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/forex`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| ang.forex     | available | $11.98    | $133.98       | high           | low    | 3      | namecheap   |
-| asia.forex    | premium   | $1,100    | $1,100        | high           | low    | 4      | dynadot     |
-| ari.forex     | available | $10.55    | $83           | high           | medium | 3      | spaceship   |
-| high.forex    | premium   | $1,300    | $1,300        | high           | low    | 4      | namecheap   |
-| bib.forex     | available | $11.98    | $133.98       | high           | low    | 3      | namecheap   |
-| save.forex    | premium   | $5,175.20 | $5,175.20     | high           | low    | 4      | spaceship   |
-| bsc.forex     | available | $10.55    | $83           | high           | low    | 3      | spaceship   |
-| alpha.forex   | premium   | $6,500    | $6,500        | high           | medium | 5      | namecheap   |
-| erp.forex     | available | $11.98    | $133.98       | high           | medium | 3      | namecheap   |
-| facts.forex   | premium   | $5,175.20 | $5,175.20     | high           | low    | 5      | spaceship   |
-| fax.forex     | available | $10.55    | $83           | high           | low    | 3      | spaceship   |
-| great.forex   | premium   | $1,300    | $1,300        | high           | medium | 5      | namecheap   |
-| fim.forex     | available | $13.50    | —             | medium         | low    | 3      | unstoppable |
-| teach.forex   | premium   | $1,300    | $1,300        | high           | low    | 5      | namecheap   |
-| fin.forex     | available | $11.98    | $133.98       | high           | low    | 3      | namecheap   |
-| credit.forex  | premium   | $5,000.50 | —             | high           | low    | 6      | unstoppable |
-| fla.forex     | available | $19.99    | —             | high           | low    | 3      | name.com    |
-| careers.forex | premium   | $5,175.20 | $5,175.20     | high           | low    | 7      | spaceship   |
-| hex.forex     | available | $11.98    | $133.98       | high           | medium | 3      | namecheap   |
-| channel.forex | premium   | $1,000.50 | —             | high           | low    | 7      | unstoppable |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| exchange.forex      | premium   | $546.56   | $1,092.18     | high           | low    | 8      | porkbun     |
+| enable.forex        | available | $13.50    | —             | high           | low    | 6      | unstoppable |
+| facts.forex         | premium   | $5,175.20 | $5,175.20     | high           | low    | 5      | spaceship   |
+| profitability.forex | available | $10.92    | $85.82        | high           | low    | 13     | dynadot     |
+| lucky.forex         | available | $11.98    | $133.98       | high           | medium | 5      | namecheap   |
+| showcase.forex      | available | $80.20    | $80.20        | high           | low    | 8      | cloudflare  |
+| easter.forex        | available | $11.98    | $133.98       | high           | low    | 6      | namecheap   |
+| credit.forex        | premium   | $5,000.50 | —             | high           | low    | 6      | unstoppable |
+| pocket.forex        | available | $10.81    | $82.90        | high           | medium | 6      | porkbun     |
+| fuzzy.forex         | available | $11.98    | $133.98       | high           | low    | 5      | namecheap   |
+| ari.forex           | available | $10.55    | $83           | high           | medium | 3      | spaceship   |
+| asia.forex          | premium   | $1,100    | $1,100        | high           | low    | 4      | dynadot     |
+| bib.forex           | available | $11.98    | $133.98       | high           | low    | 3      | namecheap   |
+| high.forex          | premium   | $1,300    | $1,300        | high           | low    | 4      | namecheap   |
+| bsc.forex           | available | $10.55    | $83           | high           | low    | 3      | spaceship   |
+| save.forex          | premium   | $5,175.20 | $5,175.20     | high           | low    | 4      | spaceship   |
+| csp.forex           | available | $13.50    | —             | high           | low    | 3      | unstoppable |
+| dsl.forex           | available | $11.98    | $133.98       | high           | low    | 3      | namecheap   |
+| great.forex         | premium   | $1,300    | $1,300        | high           | medium | 5      | namecheap   |
+| erp.forex           | available | $11.98    | $133.98       | high           | medium | 3      | namecheap   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 29,159 live domains                        |
+| 1,000-row public sample | 31,566 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 6 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FOREX One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FOREX One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
